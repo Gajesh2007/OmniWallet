@@ -1,3 +1,3 @@
-# LayerZero Template
+# OmniWallet
 
-TBD Description
+Trasact on any chain from one chain. no changing wallets. no changing rpcs. one wallet for all chains.
